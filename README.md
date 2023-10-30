@@ -1,6 +1,0 @@
-- 👋 Greetings, this is @MashailAlhamidi, embarking on an exciting journey in the world of technology.
-- 👀 I'm passionate about cybersecurity, AI, and the endless possibilities they offer.
-- 🌱 Currently, I'm learning and growing through research and hands-on experience.
-- 💞️ I'm always open to collaborations and discussions that push the boundaries of AI, Coding and cybersecurity.
-- 📫 Feel free to connect with me, and let's explore the fascinating world of tech together!
-- 📧 You can reach me at email: Mshailalhamidi@outlook.com .
